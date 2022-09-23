@@ -27,3 +27,4 @@ Develop the Book Movie form by using the Reactive Form:
   7.  Time
   
   
+Note: All the fields are madatory.
